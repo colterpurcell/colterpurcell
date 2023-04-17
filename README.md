@@ -1,2 +1,2 @@
 # Colter Purcell
-*Non-stop learner*
+**Non-stop learner**
