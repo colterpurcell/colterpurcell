@@ -4,6 +4,16 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## 🛠 Currently Working With
+## ⏲ Currently Working With
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,js,ts,html,css,tailwind,nextjs,react,nodejs,express&perline=5" />
+  </a>
+</p>
 
-## 📓 Experience With
+## 🛠 Other Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,neovim,py&perline=5" />
+  </a>
+</p>
