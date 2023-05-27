@@ -4,6 +4,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## Currently Working With
+## 🛠 Currently Working With
 
-## Experience With
+## 📓 Experience With
