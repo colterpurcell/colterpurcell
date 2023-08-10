@@ -16,6 +16,6 @@ Hello there! I'm Colter, a software engineering major with a focus on intuitive 
 ## 🛠 Other Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,neovim,py,c" />
+    <img src="https://skillicons.dev/icons?i=github,neovim,py,c,aws" />
   </a>
 </p>
