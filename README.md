@@ -9,13 +9,13 @@ Hello there! I'm Colter, a software engineering major with a focus on intuitive 
 ## ⏲ Currently Working With
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,nextjs,react,nodejs,express&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,materialui,nextjs,react,nodejs,express&perline=5" />
   </a>
 </p>
 
 ## 🛠 Other Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,neovim,py,c,aws" />
+    <img src="https://skillicons.dev/icons?i=github,neovim,py,c,aws,docker" />
   </a>
 </p>
