@@ -1,5 +1,5 @@
 # Colter Purcell
-**Non-stop Learner and Frontend Developer**
+**Amazon Jr. SDE && Software Engineering Major**
 
 Hello there! I'm Colter, a software engineering major with a focus on intuitive frontend development. Pixel perfect detail is an overstatement, but I take great pride in the cleanliness and utility in my designs. I am currently working on expanding my backend knowledge through the use of Node.js and MongoDB.
 
